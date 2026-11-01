@@ -1,0 +1,17 @@
+{
+    "title": "Stats_videos",
+    "layout": "tabs",
+    "zoom": 100,
+    "index": "pages/index.html",
+    "url": "https://arandeprandhawa-oss.github.io/stats-videos/",
+    "tabs": [
+        {
+            "label": "Stats_videos",
+            "file": "pages/index.html"
+        },
+        {
+            "label": "Video Guide · Fall 2026",
+            "file": "pages/Video Guide - STAT 3000 Playlist by Section.html"
+        }
+    ]
+}
